@@ -1,0 +1,10 @@
+.results_div {
+    margin-top: 30px;
+}
+
+.actions_div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
