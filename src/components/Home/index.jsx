@@ -70,7 +70,7 @@ const LayoutComponent = () => {
         </Content>
         <div style={{marginTop: "1%", background: 'yellow', padding:".5%"}}><a href="https://istore.my.id" target="_blank" rel="noreferrer">Found This Useful? Help Me Build More Awesome Tools 🚀</a></div>
         </Card>
-        <Footer style={{ textAlign: 'center' }}>Interest Nova 🧭 ©{new Date().getFullYear()} Created by <a href="https://t.me/albaspro" target="_blank" rel="noreferrer">Albaspro</a> </Footer>
+        <Footer style={{ textAlign: 'center' }}>Facebook Hidden Interest 🧭 ©{new Date().getFullYear()} | Created by <a href="https://t.me/albaspro" target="_blank" rel="noreferrer">Albaspro</a> </Footer>
       </Layout>
     </div>
   )
