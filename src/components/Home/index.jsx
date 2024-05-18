@@ -59,7 +59,7 @@ const LayoutComponent = () => {
     <div>
       <Layout className="layout">
         <Header>
-          <h1 className={styles.menu_header}>Interest Nova 🧭</h1>
+          <h1 className={styles.menu_header}>Facebook Hidden Interest🧭</h1>
         </Header>
         <Card style={{width: "100%"}}>
         <Content>
