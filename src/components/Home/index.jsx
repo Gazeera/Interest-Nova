@@ -68,9 +68,9 @@ const LayoutComponent = () => {
             <Results tableData={dataSource} loading={loading} />
           </div>
         </Content>
-        <div style={{marginTop: "1%", background: 'yellow', padding:".5%"}}><a href="https://www.paypal.me/srikanta30" target="_blank" rel="noreferrer">Found This Useful? Help Me Build More Awesome Tools 🚀</a></div>
+        <div style={{marginTop: "1%", background: 'yellow', padding:".5%"}}><a href="https://istore.my.id" target="_blank" rel="noreferrer">Found This Useful? Help Me Build More Awesome Tools 🚀</a></div>
         </Card>
-        <Footer style={{ textAlign: 'center' }}>Interest Nova 🧭 ©{new Date().getFullYear()} Created by <a href="https://in.linkedin.com/in/srikanta30" target="_blank" rel="noreferrer">Srikanta Banerjee</a> | <a href="https://docs.google.com/document/d/e/2PACX-1vTXEkU6pKM__pmvXBzbXoPU9zBknBLf3koqIeE1A7PKFbh9M2qav-G3uDuxBoNfm8bUQaksXcbGKbmc/pub" target="_blank" rel="noreferrer">Privacy Policy</a> </Footer>
+        <Footer style={{ textAlign: 'center' }}>Interest Nova 🧭 ©{new Date().getFullYear()} Created by <a href="https://t.me/albaspro" target="_blank" rel="noreferrer">Albaspro</a> </Footer>
       </Layout>
     </div>
   )
