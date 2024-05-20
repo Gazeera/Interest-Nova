@@ -25,7 +25,7 @@ const LayoutComponent = () => {
 
           const searchQuery = query.trim().split(" ").join("+");
 
-          const res = await axios.get(`https://interest-nova-server.vercel.app/search?q=${searchQuery}`);
+          const res = await axios.get(`https://interest-nova-server-baru-f7ei.vercel.app/search?q=${searchQuery}`);
 
           if (res.data.success) {
 
